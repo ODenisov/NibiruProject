@@ -1,0 +1,29 @@
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\bin\Debug\NIBIRU.exe.config
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\bin\Debug\NIBIRU.exe
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\bin\Debug\NIBIRU.pdb
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\NIBIRU.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\WebRoom.g.cs
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\App.g.cs
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\NIBIRU_MarkupCompile.cache
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\NIBIRU_MarkupCompile.lref
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\WebRoom.baml
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\NIBIRU.g.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\NIBIRU.Properties.Resources.resources
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\NIBIRU.csproj.GenerateResource.Cache
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\NIBIRU.exe
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\NIBIRU.pdb
+C:\Users\Олег\Documents\Visual Studio 2015\Projects\NIBIRU\NIBIRU\obj\Debug\App.baml
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\bin\Debug\NIBIRU.exe.config
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\NIBIRU.exe
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\NIBIRU.pdb
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\bin\Debug\NIBIRU.exe
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\bin\Debug\NIBIRU.pdb
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\WebRoom.g.cs
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\App.g.cs
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\NIBIRU_MarkupCompile.cache
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\NIBIRU_MarkupCompile.lref
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\App.baml
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\WebRoom.baml
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\NIBIRU.g.resources
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\NIBIRU.Properties.Resources.resources
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Debug\NIBIRU.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\bin\Release\NIBIRU.exe.config
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\bin\Release\NIBIRU.exe
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\bin\Release\NIBIRU.pdb
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\WebRoom.g.cs
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\App.g.cs
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\NIBIRU_MarkupCompile.cache
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\NIBIRU_MarkupCompile.lref
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\App.baml
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\WebRoom.baml
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\NIBIRU.g.resources
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\NIBIRU.Properties.Resources.resources
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\NIBIRU.csproj.GenerateResource.Cache
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\NIBIRU.exe
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\NIBIRU.pdb
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\NIBIRU.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\playlistRedactor.g.cs
+C:\Users\Олег\Source\Repos\NibiruProject\NIBIRU\obj\Release\playlistRedactor.baml
